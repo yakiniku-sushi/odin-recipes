@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(104, 85, 104);
+    font-family: Verdana,Impact, sans-serif;
+}
+main{
+    width: 80%;
+    background-color: rgb(233, 210, 162);
+    padding: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: fill;
+    max-width: 600px;
+}
+img{
+display: block;
+width: 300px;
+height: auto;
+margin-left: auto;
+margin-right: auto;
+}
+h1{
+    text-align: center;
+    font-family: Impact, "Geneva", Tahoma, sans-serif;
+    color: red;
+}
+.desc{
+    font-style: italic;
+}
+ul, ol{
+    font-family: Verdana,Tahoma, sans-serif;
+}

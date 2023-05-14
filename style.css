@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(104, 85, 104);
+}
+main{
+    width: 80%;
+    background-color: rgb(233, 210, 162);
+    padding: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: fill;
+    max-width: 500px;
+}
+img{
+display: block;
+width: 300px;
+height: auto;
+margin-left: auto;
+margin-right: auto;
+}
+h1, ul{
+    text-align: center;
+    font-family: Impact, "Geneva", Tahoma, sans-serif;
+    color: red;
+}
+ul{
+    margin-right: 60%;
+    margin-left: 39%;
+}
+.tuna{
+    margin-right: 7%;
+    margin-left: auto;
+}
+a{
+    color: black;
+}
+a:visited{
+    color:black;
+}
