@@ -7,7 +7,6 @@ main{
     padding: 20px;
     margin-right: auto;
     margin-left: auto;
-    margin-bottom: fill;
     max-width: 500px;
 }
 img{
@@ -19,6 +18,8 @@ margin-right: auto;
 }
 h1, ul{
     text-align: center;
+    margin-left: auto;
+    margin-right: auto;
     font-family: Impact, "Geneva", Tahoma, sans-serif;
     color: red;
 }
